@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "195688536687",
+    "firebase_url": "https://schoolbustracking-dd9eb.firebaseio.com",
+    "project_id": "schoolbustracking-dd9eb",
+    "storage_bucket": "schoolbustracking-dd9eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195688536687:android:876885312df78c6ece8b9a",
+        "android_client_info": {
+          "package_name": "com.example.school_bus_tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195688536687-qkr1roh628o5ksk8442e90dvsrvkb4im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.school_bus_tracking",
+            "certificate_hash": "e709c4dd893653c979cb23d0c25b1861a618e824"
+          }
+        },
+        {
+          "client_id": "195688536687-jtp461s2c7s7llf33mjr36j9bk14shqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9ecCBdl_HXPfMLJXherBwTTcBO8uKyFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195688536687-jtp461s2c7s7llf33mjr36j9bk14shqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
